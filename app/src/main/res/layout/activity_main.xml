@@ -35,7 +35,7 @@
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/_Google" />
+            app:srcCompat="@drawable/google" />
     </androidx.constraintlayout.widget.ConstraintLayout>
 
     <ImageView
@@ -44,7 +44,7 @@
         android:layout_height="wrap_content"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:srcCompat="@drawable/Wave"
+        app:srcCompat="@drawable/wave"
         tools:layout_editor_absoluteY="35dp" />
 
     <TextView
@@ -83,7 +83,7 @@
             app:layout_constraintHorizontal_bias="0.5"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/_Facebook" />
+            app:srcCompat="@drawable/facebook" />
 
         <TextView
             android:id="@+id/textView3"
